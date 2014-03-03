@@ -14,4 +14,5 @@
 
 + [Slicebox](https://github.com/codrops/Slicebox)  
   一个3D变换相册插件；
-+ 
++ [skrollr](https://github.com/Prinzhorn/skrollr)
+  优秀的视差滚动插件；
