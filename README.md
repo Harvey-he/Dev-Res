@@ -14,5 +14,7 @@
 
 + [Slicebox](https://github.com/codrops/Slicebox)  
   一个3D变换相册插件；
-+ [skrollr](https://github.com/Prinzhorn/skrollr)
++ [skrollr](https://github.com/Prinzhorn/skrollr)  
   优秀的视差滚动插件；
++ [csshake](https://github.com/elrumordelaluz/csshake)  
+  一个可以让你的DOM元素抖动的CSS动画插件；
