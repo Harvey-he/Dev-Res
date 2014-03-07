@@ -1,37 +1,20 @@
-#前端开发资源汇总
+#编程开发资源汇总
 
-##库
+##前端开发资源汇总
 
-+ [validator.js](https://github.com/chriso/validator.js)  
-  一个字符串校验与处理的库；
-+ [AngularMotion](http://mgcrea.github.io/angular-motion/)  
-  一个angular的动画库；
-+ [Fastclick](http://ftlabs.github.io/fastclick/)  
-  解决移动端点击事件响应延迟；
-+ [Progress.js](http://usablica.github.io/progress.js/)  
-  一个可定制的进度条生成库，可以为任何对象加上加载进度条；
++ [前端开发资源汇总](https://github.com/Harvey-he/Dev-Res/blob/master/Frontend-Dev-Res.md)  
 
-##插件
+##后端开发资源汇总
 
-+ [Slicebox](https://github.com/codrops/Slicebox)  
-  一个3D变换相册插件；
-+ [skrollr](https://github.com/Prinzhorn/skrollr)  
-  优秀的视差滚动插件；
-+ [csshake](https://github.com/elrumordelaluz/csshake)  
-  一个可以让你的DOM元素抖动的CSS动画插件；
++ [后端开发资源汇总](https://github.com/Harvey-he/Dev-Res/blob/master/Backtend-Dev-Res.md)   
 
-##一些文章
+##系统级开发资源汇总
 
-+ [响应式设计简明指南](http://www.adamkaplan.me/grid/)  
-  一篇关于响应式设计的入门文章；
++ [系统级开发资源汇总](https://github.com/Harvey-he/Dev-Res/blob/master/System-Dev-Res.md)  
 
-##一些电子书
+##在线学习资源汇总
 
-+ [Eloquent JavaScript](http://eloquentjavascript.net/2nd_edition/preview/)  
-  免费 JavaScript 电子书
++ [TRY REGEX](http://tryregex.com/)  
+  交互式学习正则表达式
 
-##一些工具
-
-+ [Chrome 开发者工具扩展推荐](https://developers.google.com/chrome-developer-tools/docs/extensions-gallery)  
-  调试、开发必备扩展
   
