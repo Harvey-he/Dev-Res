@@ -6,7 +6,7 @@
 
 ##后端开发资源汇总
 
-+ [后端开发资源汇总](https://github.com/Harvey-he/Dev-Res/blob/master/Backtend-Dev-Res.md)   
++ [后端开发资源汇总](https://github.com/Harvey-he/Dev-Res/blob/master/Backend-Dev-Res.md)   
 
 ##系统级开发资源汇总
 
