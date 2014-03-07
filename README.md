@@ -17,4 +17,9 @@
 + [TRY REGEX](http://tryregex.com/)  
   交互式学习正则表达式
 
+##开源软件收藏
+
++ [SVDFeature](http://svdfeature.apexlab.org/wiki/Main_Page)  
+  开源推荐系统 SVDFeature 由国人开发
+
   
