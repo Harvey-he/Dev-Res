@@ -10,6 +10,8 @@
   解决移动端点击事件响应延迟；
 + [Progress.js](http://usablica.github.io/progress.js/)  
   一个可定制的进度条生成库，可以为任何对象加上加载进度条；
++ [Jasmine](http://jasmine.github.io/)  
+  行为驱动的javascript测试开发框架；
 
 ##插件
 
