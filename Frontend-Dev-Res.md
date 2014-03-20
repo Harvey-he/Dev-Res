@@ -21,6 +21,8 @@
   优秀的视差滚动插件；
 + [csshake](https://github.com/elrumordelaluz/csshake)  
   一个可以让你的DOM元素抖动的CSS动画插件；
++ [angular.treeview](https://github.com/eu81273/angular.treeview)  
+  Angularjs 树形控件；
 
 ##一些文章
 
