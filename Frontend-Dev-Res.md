@@ -23,6 +23,8 @@
   一个可以让你的DOM元素抖动的CSS动画插件；
 + [angular.treeview](https://github.com/eu81273/angular.treeview)  
   Angularjs 树形控件；
++ [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim)  
+  Amazon使用的反应速度极快的级联菜单插件；
 
 ##一些文章
 
