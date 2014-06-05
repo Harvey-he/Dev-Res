@@ -1,5 +1,9 @@
 #编程开发资源汇总
 
+##编码规范  
+
++ [前端编码规范](http://codeguide.bootcss.com/)  
+
 ##前端开发资源汇总
 
 + [前端开发资源汇总](https://github.com/Harvey-he/Dev-Res/blob/master/Frontend-Dev-Res.md)  
