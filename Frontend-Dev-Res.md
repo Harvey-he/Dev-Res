@@ -31,7 +31,10 @@
 ##一些文章
 
 + [响应式设计简明指南](http://www.adamkaplan.me/grid/)  
-  一篇关于响应式设计的入门文章；
+  一篇关于响应式设计的入门文章；  
+
++ [Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)  
+  一篇关于Javascript核心知识的文章，开源在github；
 
 ##一些电子书
 
