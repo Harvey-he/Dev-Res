@@ -45,3 +45,6 @@
 
 + [Chrome 开发者工具扩展推荐](https://developers.google.com/chrome-developer-tools/docs/extensions-gallery)  
   调试、开发必备扩展
+  
+##一些博客
++ [AngularJs博客](http://angularjs.blogspot.com/)
