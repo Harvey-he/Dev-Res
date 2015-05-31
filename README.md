@@ -26,4 +26,10 @@
 + [SVDFeature](http://svdfeature.apexlab.org/wiki/Main_Page)  
   开源推荐系统 SVDFeature 由国人开发
 
+
+##收藏
++ [List of Free Learning Resources](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+
++ [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN/blob/master/README.md)
+
   
