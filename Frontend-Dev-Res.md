@@ -53,8 +53,6 @@
 + [前端技能汇总](https://github.com/JacksonTian/fks/blob/master/README.md)
   朴老师组织维护的前端技能图谱
 
-+ [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN/blob/master/README.md)
-
 + [关于前端开发的一些资源收藏](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md)
 
 + [node.js中文资料导航](https://github.com/youyudehexie/node123/blob/master/README.md)
