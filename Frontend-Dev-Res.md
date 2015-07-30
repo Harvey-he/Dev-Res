@@ -4,16 +4,27 @@
 
 + [validator.js](https://github.com/chriso/validator.js)  
   一个字符串校验与处理的库；
+
 + [AngularMotion](http://mgcrea.github.io/angular-motion/)  
   一个angular的动画库；
+
 + [Fastclick](http://ftlabs.github.io/fastclick/)  
   解决移动端点击事件响应延迟；
+
 + [Progress.js](http://usablica.github.io/progress.js/)  
   一个可定制的进度条生成库，可以为任何对象加上加载进度条；
+
 + [Jasmine](http://jasmine.github.io/)  
   行为驱动的javascript测试开发框架；
+
 + [magic_animations](http://www.minimamente.com/example/magic_animations/)  
   CSS3 动画库
+
++ [Chart.js](https://github.com/nnnick/Chart.jshttps://github.com/tomsouthall/Chart.HorizontalBar.js
+  H5图表库
+
++ [Chart.HorizontalBar.js](https://github.com/tomsouthall/Chart.HorizontalBar.js)
+  Chart.js图表库的一个插件，横向的柱状图
 
 ##插件
 
@@ -45,7 +56,7 @@
 
 + [Chrome 开发者工具扩展推荐](https://developers.google.com/chrome-developer-tools/docs/extensions-gallery)  
   调试、开发必备扩展
-  
+
 ##博客
 + [AngularJs博客](http://angularjs.blogspot.com/)
 
