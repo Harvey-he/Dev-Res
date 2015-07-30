@@ -20,7 +20,7 @@
 + [magic_animations](http://www.minimamente.com/example/magic_animations/)  
   CSS3 动画库
 
-+ [Chart.js](https://github.com/nnnick/Chart.jshttps://github.com/tomsouthall/Chart.HorizontalBar.js
++ [Chart.js](https://github.com/nnnick/Chart.jshttps://github.com/tomsouthall/Chart.HorizontalBar.js)
   H5图表库
 
 + [Chart.HorizontalBar.js](https://github.com/tomsouthall/Chart.HorizontalBar.js)
