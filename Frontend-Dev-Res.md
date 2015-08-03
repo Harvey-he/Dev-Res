@@ -20,10 +20,10 @@
 + [magic_animations](http://www.minimamente.com/example/magic_animations/)  
   CSS3 动画库
 
-+ [Chart.js](https://github.com/nnnick/Chart.jshttps://github.com/tomsouthall/Chart.HorizontalBar.js)
++ [Chart.js](https://github.com/nnnick/Chart.js)  
   H5图表库
 
-+ [Chart.HorizontalBar.js](https://github.com/tomsouthall/Chart.HorizontalBar.js)
++ [Chart.HorizontalBar.js](https://github.com/tomsouthall/Chart.HorizontalBar.js)  
   Chart.js图表库的一个插件，横向的柱状图
 
 ##插件
